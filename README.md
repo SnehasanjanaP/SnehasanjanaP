@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Snehasanjana Padala
 
-🚀 **Aspiring Full Stack Developer**  
+🚀 **Aspiring Software Developer**  
 🎓 **M.S. in Computer Science** (Expected Dec '24)  
 🔧 **Tech Stack**: React, Redux, Node.js, Express, MongoDB, SQL, Python
 
